@@ -1,0 +1,57 @@
+body, td {font-family:tahoma,verdana; font-size:80%; line-height:130%;}
+
+h1 {font-family:tahoma,verdana; font-size:140%; line-height:100%; font-weight:bold;}
+h2 {font-family:tahoma,verdana; font-size:100%; line-height:50%; font-weight:bold;color:#4a5db0}
+
+.topt {font-family:tahoma,verdana; font-size:110%; font-weight:bold;color:#ffffff}
+
+a {font-weight:normal;}
+a:link {color:#4a5db0}
+a:active {color:#4a5db0}
+a:visited {color:#4a5db0}
+a:hover{color:#000000}
+
+
+.topp {vertical-align:top;}
+
+.menu {text-align:center;font-weight:bold; vertical-align:top; padding: 13px 0px 0px 0px;}
+.menu a {font-weight:bold;}
+.menu a:link {color:#4a5db0}
+.menu a:active {color:#4a5db0}
+.menu a:visited {color:#4a5db0}
+.menu a:hover{color:#000000}
+
+.podmenu {vertical-align:top; text-align:left; padding: 6px 0px 0px 0px;font-size:100%;}
+.podmenu a {font-weight:normal; text-align:left;}
+.podmenu a:link {color:#4a5db0}
+.podmenu a:active {color:#4a5db0}
+.podmenu a:visited {color:#4a5db0}
+.podmenu a:hover{color:#000000}
+
+.line {text-align:left;font-weight:bold; vertical-align:top;font-size:80%; padding: 0px 0px 6px 11px;}
+.line a {font-weight:normal; text-align:left;}
+.line a:link {color:#4a5db0}
+.line a:active {color:#4a5db0}
+.line a:visited {color:#4a5db0}
+.line a:hover{color:#000000}
+
+.top {color:#8a8a8a;font-size:75%;}
+
+.log{
+font-family:tahoma,verdana;
+font-size:90%;
+}
+
+.but{
+font-family:tahoma,verdana;
+font-size:90%;
+background-color: #c1cdff;
+color:#4a5db0;
+}	
+	
+input {
+    margin: 0px;
+    padding: 2px;
+	background-color: #FFFFFF;
+	border: 1px solid #4a5db0; 
+} 
